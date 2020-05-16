@@ -1,6 +1,6 @@
 from random import randint
 
-ptions = ["Piedra", "Papel", "Tijeras"]
+options = ["Piedra", "Papel", "Tijeras"]
 
 # El resultado de salida son las siguientes String
 empatar = 'Empate!'
